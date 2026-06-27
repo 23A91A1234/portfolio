@@ -30,7 +30,7 @@ const About = () => {
               {[
                 { label: "University", value: "Aditya University" },
                 { label: "Degree", value: "B.Tech IT" },
-                { label: "CGPA", value: "9.50/10" },
+                { label: "CGPA", value: "9.47/10" },
                 { label: "Location", value: "Rajahmundry, AP" },
               ].map((item) => (
                 <div key={item.label} className="glass rounded-xl p-4">

@@ -3,10 +3,16 @@ import { FolderGit2, ExternalLink } from "lucide-react";
 
 const projects = [
   {
+    title: "MailOra",
+    description: "A full-stack web application that automatically tracks internships, jobs, and hackathon opportunities directly from user email inboxes. Uses AI-based email classification to extract deadlines and links, triggering automated reminders. Features a personalized dashboard with tailored job recommendations and streamlined application tracking.",
+    tech: ["React.js", "Node.js", "Express.js", "MongoDB"],
+    github: "https://github.com/nrokzzzz/mail-or-a-frontend-backend",
+  },
+  {
     title: "SkillHance",
     description: "A web platform that helps engineering students learn programming foundations, explore career paths, and access curated study resources.",
     tech: ["HTML", "CSS", "JavaScript", "React"],
-    github: "https://github.com/LUCKYHARSHA001/SkillHance",
+    github: "https://github.com/23A91A1234/SkillHance_React",
   },
   {
     title: "YouNique Care",

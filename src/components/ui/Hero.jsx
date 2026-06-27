@@ -21,7 +21,7 @@ const Hero = () => {
               <span className="text-gradient">Siva Sri</span>
             </h1>
             <p className="text-xl sm:text-2xl text-muted-foreground mb-2 font-medium">
-              Frontend & Full Stack Developer
+              Full Stack Developer
             </p>
             <p className="text-muted-foreground flex items-center justify-center lg:justify-start gap-1 mb-6">
               <MapPin size={16} /> Rajahmundry, Andhra Pradesh

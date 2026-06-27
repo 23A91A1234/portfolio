@@ -2,11 +2,9 @@ import { motion } from "framer-motion";
 import { Award } from "lucide-react";
 
 const achievements = [
-  "Solved 400+ Data Structures and Algorithms problems on LeetCode.",
-  "Completed Red Hat Operating Systems Certification by Red Hat.",
-  "Completed Java DBMS Certification by Oracle.",
-  "Completed Red Hat System Administrator Certification by Red Hat.",
-  "Completed HTML & CSS Certification by IT Specialist.",
+  "Solved 500+ Data Structures and Algorithms problems on LeetCode, demonstrating strong analytical and algorithmic problem-solving capabilities.",
+  "Solved 200+ problems on GeeksforGeeks, strengthening proficiency in core data structures and optimization techniques.",
+  "Achieved 5-star in SQL and 4-star in C on HackerRank, with additional badges in Problem Solving and JavaScript.",
 ];
 
 const Achievements = () => {
